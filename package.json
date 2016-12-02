@@ -1,0 +1,32 @@
+{
+    "name": "darktheme2",
+    "displayName": "Dark Theme 2.0",
+    "description": "Dark Theme based on Atom's One Dark",
+    "version": "2.0.0",
+    "publisher": "cocoatechdesign",
+    "author": "Saray Gómez <cocoatechdesign@gmail.com> (http://github.com/cocoatechdesign)",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [{
+            "label": "Dark Theme 2.0",
+            "uiTheme": "vs-dark",
+            "path": "./themes/DarkTheme2.tmTheme"
+        }]
+    },
+    "homepage": "https://github.com/cocoatechdesign/VSCode-DarkTheme/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CocoaTechDesign/VSCode-DarkTheme"
+    },
+    "keywords": [
+        "VSCode",
+        "Theme",
+        "DarkTheme"
+    ]
+}
