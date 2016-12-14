@@ -249,7 +249,7 @@
           <key>fontStyle</key>
           <string></string>
           <key>foreground</key>
-          <string>#b95e75</string>
+          <string>#e06c75</string>
         </dict>
       </dict>
       <dict>
@@ -262,7 +262,7 @@
           <key>fontStyle</key>
           <string>italic</string>
           <key>foreground</key>
-          <string>#e06c75</string>
+          <string>#e0a58c</string>
         </dict>
       </dict>
       <dict>
