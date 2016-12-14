@@ -19,14 +19,15 @@
             "path": "./themes/DarkTheme2.tmTheme"
         }]
     },
-    "homepage": "https://github.com/cocoatechdesign/VSCode-DarkTheme/README.md",
+    "homepage": "https://github.com/CocoaTechDesign/VSCode-DarkTheme2/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/CocoaTechDesign/VSCode-DarkTheme"
+        "url": "https://github.com/CocoaTechDesign/VSCode-DarkTheme2"
     },
     "keywords": [
         "VSCode",
         "Theme",
-        "DarkTheme"
+        "DarkTheme",
+        "Atom's"
     ]
 }

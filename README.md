@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "darktheme2"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# DARK THEME 2.0
+Dark Theme Customized and based on Atom's One Dark colors.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+## INSTALLATION
+ress `ctl/command + shift + p` to launch the command palette then run
+```
+ext install theme-darktheme2
+```
+## SCREENSHOT
+Screenshot of HTML, JavaScript and Gherkin
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Theme Screenshot](img/html.png)
+![Theme Screenshot](img/javascript.png)
+![Theme Screenshot](img/gherkin.png)
 
 **Enjoy!**
